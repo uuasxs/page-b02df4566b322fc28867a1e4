@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "09a5491e8b832779e136d0cf",
+  "owner": "uuasxs",
+  "repo": "page-b02df4566b322fc28867a1e4",
+  "title": "忍者云(RenzheCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b02df4566b322fc28867a1e4",
+      "a": "忍者云(RenzheCloud)",
+      "b": "最新6折优惠码",
+      "entity": "忍者云(RenzheCloud)",
+      "brand": "忍者云(RenzheCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ca4d702c39dec0568a160112a05964743ddf9709641ffb4c1794ed96ab0315d5",
+      "content": {
+        "primary_entity": "忍者云(RenzheCloud)",
+        "keyword1": "忍者云(RenzheCloud)",
+        "keyword2": "最新6折优惠码",
+        "content": {
+          "AI_DESCRIPTION": "，专注为跨境学习、办公与娱乐场景提供订阅式网络加速服务，节点覆盖多个地区，支持按流量与设备数量选择套餐。基础版满足日常浏览，旗舰版加入 IPLC 专线并针对游戏加速优化，团队版适合多人协作与高带宽需求，按年付可进一步降低使用成本。",
+          "AI_HERO_SUBTITLE": "灵活套餐，适配多设备畅连",
+          "AI_HERO_INTRO": "忍者云(RenzheCloud)提供多种订阅套餐，按流量、设备数量与线路等级区分，适合不同规模的使用需求。用户可根据预算与在线设备数选择基础版、旗舰版或团队版，并按月或按年付费。",
+          "AI_VISUAL_TITLE": "忍者云多档订阅灵活选",
+          "AI_HIGHLIGHT_1": "基础版月付15元含100GB",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备同连",
+          "AI_FEATURES_TITLE": "套餐特点与选择方向",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与线路类型三个角度挑选适合的订阅方案。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按每月用量匹配。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台设备同时在线。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "三档均支持按年付，年付价格分别为150元、350元与850元。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "根据常用设备类型选择对应客户端，并按订阅信息完成配置。",
+          "AI_PLANS_TITLE": "套餐对比与推荐",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版适合游戏与流媒体，团队版适合多设备协作。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "选择服务、确认设备适配、按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择订阅",
+          "AI_STEP_TEXT_1": "根据流量与设备数量在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本，并查看对应客户端的配置说明。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中按文档指引导入订阅信息，保存后即可使用。",
+          "AI_CLOSING_TITLE": "选好套餐轻松连接",
+          "AI_CLOSING_TEXT": "按设备与流量挑选套餐，并参照客户端文档完成订阅配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "忍者云基础版与旗舰版有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、3台设备在线，适合单人轻度使用；旗舰版每月300GB流量、5台设备在线，并包含IPLC专线游戏加速和优先工单支持。",
+          "AI_FAQ_QUESTION_2": "年付能便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付¥150相当于月付¥12.5，旗舰版年付¥350相当于月付约¥29.2，团队版年付¥850相当于月付约¥70.8，均比按月支付更省。",
+          "AI_FAQ_QUESTION_3": "订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线，订阅导入后按版本上限使用即可。",
+          "AI_FAQ_QUESTION_4": "手机上怎么导入忍者云订阅？",
+          "AI_FAQ_ANSWER_4": "在手机客户端中找到订阅或配置导入选项，粘贴订阅地址后更新节点列表，具体菜单名称以客户端文档说明为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么团队？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、20台设备在线，提供VIP专属高带宽节点和企业定制路由，适合小型工作室或协作小组统一管理订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2bd3829884161219915431f66f0ee8267fe57838b4d3a95f6a68f4a6b2e636c8",
+    "sitemap.xml": "ba2c2def3f156dd7a88ed1cf8b7de6efaa9d9e8f9bdfa313afd0abc92287f665",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "f774e40236ec06a5383ad0078c458f7574dc93927a5bf4a49a91ab456c3525c7"
+}
